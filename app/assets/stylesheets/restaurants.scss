@@ -1,0 +1,32 @@
+// Place all the styles related to the restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.container {
+  width: 900px;
+}
+
+h1 {
+  color: black
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black
+}
+
+.container {
+  margin: 10px auto;
+}
+
+.restaurant-name {
+  font-size: 25px;
+  padding: 2px;
+}
+
+form {
+  padding: 100px;
+}
